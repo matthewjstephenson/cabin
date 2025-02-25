@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/939035259.svg)](https://doi.org/10.5281/zenodo.14927628)
+
 # cabin
 
 `cabin` is a set of simple neural network classes (and custom loss functions) designed to learn selection cuts for tabular data using gradient descent.  A full description of the `cabin` approach to learning cuts is in:
